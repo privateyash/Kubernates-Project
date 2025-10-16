@@ -132,4 +132,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 ### 🔗 Connect with Me
-If you found this helpful or want to collaborate, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/kumaryash25/) or explore more projects on my GitHub profile!
+If you found this helpful or want to collaborate, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/kumaryash27/) or explore more projects on my GitHub profile!
